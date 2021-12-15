@@ -1,0 +1,32 @@
+
+h1{
+     text-align: center;
+     background-color: cyan;
+     text-shadow: rebeccapurple 4px 2px;
+
+}
+.fav{
+    text-align: center;
+    background-color:darkgreen;
+    text-shadow: greenyellow 3px 2px;
+    color:white;
+}
+.football{
+    text-align: justify;
+    background-color: darkgreen;
+    color: white;
+    font-size: 25px;
+    border: 10px dashed white;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 25px;
+}
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+a{
+    color: white;
+}
