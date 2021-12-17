@@ -64,3 +64,52 @@ p{
     background-color: red;
     color: green;
 }
+.favo {
+    text-align: center;
+    background-color: navy;
+    color: white;
+    text-shadow: cyan 3px 2px;
+}
+.cricket{
+    text-align: justify;
+    background-color: greenyellow;
+    color: red;
+    border: dashed white 10px;
+    font-size: 25px;
+    border-radius: 25px;
+    margin: 60px;
+    padding: 30px;
+}
+.icc{
+    color: red;
+}
+.sha{
+    border: darkgreen 10px solid;
+}
+.bd{
+    border: darkgreen 10px solid;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: darkgreen;
+    color: red;
+}
+.ind{
+    background-color: skyblue;
+    margin-right: 400px;
+    margin-left: 400px;
+    border: skyblue 10px solid;
+    color: orangered;
+}
+.ms{
+    border: skyblue 10px solid;
+}
+.aus{
+    background-color: yellow;
+    margin-right: 400px;
+    margin-left: 400px;
+    color: blue;
+}
+.st{
+    border:skyblue 10px solid;
+ 
+}
