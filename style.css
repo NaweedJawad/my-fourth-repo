@@ -113,3 +113,42 @@ p{
     border:skyblue 10px solid;
  
 }
+.mamba{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    text-shadow: whitesmoke 3px 2px;
+}
+.basketball{
+    text-align: justify;
+    background-color: orangered;
+    color: black;
+    border: black dashed 10px;
+    font-size: 25px;
+    border-radius: 25px;
+    margin: 60px;
+    padding: 30px;
+}
+.nba{
+    color: black;
+}
+.james{
+    border: purple 10px solid;
+}
+.lal{
+    border: purple 10px solid;
+    background-color: purple ;
+    color: gold;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.jordan{
+    border: red 10px solid;
+}
+.cb{
+    border: red 10px solid;
+    background-color: red;
+    color: black;
+    margin-right: 400px;
+    margin-left: 400px;
+}
